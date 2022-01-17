@@ -176,3 +176,4 @@ C:\Users\yasinBabaoglu\source\PersoRepo\DesignPatterns\WebApp.Strategy\obj\Debug
 C:\Users\yasinBabaoglu\source\PersoRepo\DesignPatterns\WebApp.Strategy\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
 C:\Users\yasinBabaoglu\source\PersoRepo\DesignPatterns\WebApp.Strategy\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
 C:\Users\yasinBabaoglu\source\PersoRepo\DesignPatterns\WebApp.Strategy\obj\Debug\net5.0\Razor\Views\Settings\Index.cshtml.g.cs
+C:\Users\yasinBabaoglu\source\PersoRepo\DesignPatterns\WebApp.Strategy\obj\Debug\net5.0\WebApp.Strategy.csproj.AssemblyReference.cache
